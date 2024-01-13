@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\learn-dotnet\dotnet-14-01-2024-property-patterns\bin\Debug\net7.0\dotnet-14-01-2024-property-patterns.exe
+C:\Users\User\Desktop\learn-dotnet\dotnet-14-01-2024-property-patterns\bin\Debug\net7.0\dotnet-14-01-2024-property-patterns.deps.json
+C:\Users\User\Desktop\learn-dotnet\dotnet-14-01-2024-property-patterns\bin\Debug\net7.0\dotnet-14-01-2024-property-patterns.runtimeconfig.json
+C:\Users\User\Desktop\learn-dotnet\dotnet-14-01-2024-property-patterns\bin\Debug\net7.0\dotnet-14-01-2024-property-patterns.dll
+C:\Users\User\Desktop\learn-dotnet\dotnet-14-01-2024-property-patterns\bin\Debug\net7.0\dotnet-14-01-2024-property-patterns.pdb
+C:\Users\User\Desktop\learn-dotnet\dotnet-14-01-2024-property-patterns\obj\Debug\net7.0\dotnet-14-01-2024-property-patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\learn-dotnet\dotnet-14-01-2024-property-patterns\obj\Debug\net7.0\dotnet-14-01-2024-property-patterns.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\learn-dotnet\dotnet-14-01-2024-property-patterns\obj\Debug\net7.0\dotnet-14-01-2024-property-patterns.AssemblyInfo.cs
+C:\Users\User\Desktop\learn-dotnet\dotnet-14-01-2024-property-patterns\obj\Debug\net7.0\dotnet-14-01-2024-property-patterns.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\learn-dotnet\dotnet-14-01-2024-property-patterns\obj\Debug\net7.0\dotnet-14-01-2024-property-patterns.dll
+C:\Users\User\Desktop\learn-dotnet\dotnet-14-01-2024-property-patterns\obj\Debug\net7.0\refint\dotnet-14-01-2024-property-patterns.dll
+C:\Users\User\Desktop\learn-dotnet\dotnet-14-01-2024-property-patterns\obj\Debug\net7.0\dotnet-14-01-2024-property-patterns.pdb
+C:\Users\User\Desktop\learn-dotnet\dotnet-14-01-2024-property-patterns\obj\Debug\net7.0\dotnet-14-01-2024-property-patterns.genruntimeconfig.cache
+C:\Users\User\Desktop\learn-dotnet\dotnet-14-01-2024-property-patterns\obj\Debug\net7.0\ref\dotnet-14-01-2024-property-patterns.dll
